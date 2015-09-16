@@ -39,4 +39,4 @@ day = int(input("And the day? "))
 if month == Ocober and day == 31
     print(name + ", You were born on Halloween!")
 else:
-    print(name + ", You were born on Halloween!")
+    print(name + ", You were not born on Halloween!")
