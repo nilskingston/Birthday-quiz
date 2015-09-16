@@ -36,7 +36,7 @@ month = input("Hi " + name + ", what was the name of the month you were born in?
 year = int(input("And what year were you born in, " + name + "? "))
 day = int(input("And the day? "))
 
-if month == Ocober and day == 31
+if month == "October" and day == 31
     print(name + ", You were born on Halloween!")
 else:
     print(name + ", You were not born on Halloween!")
