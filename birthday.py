@@ -50,6 +50,10 @@ elif 1990 <= year < 2000:
 elif year >= 2000:
     age = "two thousands"
 
+if month == "December" or month == "January" or month == "Febuary":
+    season = "winter"
+elif
+    
     
     
  if month == "October" and day == 31:
