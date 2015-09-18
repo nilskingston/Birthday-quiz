@@ -64,7 +64,7 @@ elif month == "September" or month == "October" or month "November":
 
  if month == "October" and day == 31:
     print(name + ", you were born on Halloween!")
-elif month == month1 and day == todaydate:
+elif month == month1 and day == int(todaydate):
     print("Happy Birthday!")   
 else:
     print(name + ", you are a " + season + "baby of the" + age".")
