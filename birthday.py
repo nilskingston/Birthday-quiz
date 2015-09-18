@@ -57,7 +57,7 @@ elif month == "March" or month == "April" or month == "May":
     season = "spring"
 elif month == "June" or month == "July" or month == "August":
     season = "summer"
-elif month == "September" or month == "October" or month "November":
+elif month == "September" or month == "October" or month == "November":
     season = "fall"
    
     
