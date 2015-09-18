@@ -46,9 +46,17 @@ if month == "October" and day == 31:
 elif month == todaymonth and day == todaydate:
     print("Happy Birthday!")
 
-else:
+if year < 1980:
+    age = "stone age"
+elif 1980 <= year < 1990:
+    age = "eighties"
+elif 1990 <= year < 2000:
+    age = "nineties"
+elif year >= 2000:
+    age = "two thousands"
     
-   
+    
+    
    
    
    
