@@ -66,6 +66,6 @@ if month == "October" and day == 31:
 elif month == month1 and day == int(todaydate):
     print("Happy Birthday!")   
 else:
-    print(name + ", you are a " + season + "baby of the" + age + ".")
+    print(name + ", you are a " + season + " baby of the " + age + ".")
     
         
